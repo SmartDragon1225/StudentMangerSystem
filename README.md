@@ -1,0 +1,3 @@
+# StudentMangerSystem
+SpringBoot开发的学生管理系统
+经过自己的学习结合网上的教程实现的系统，欢迎读者提出宝贵的意见！
